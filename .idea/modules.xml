@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Microservice-Ecommerce.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Microservice-Ecommerce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-service/SpringBoot-Microservice-Ecommerce.inventory-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-service/SpringBoot-Microservice-Ecommerce.inventory-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/SpringBoot-Microservice-Ecommerce.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/SpringBoot-Microservice-Ecommerce.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/SpringBoot-Microservice-Ecommerce.product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/SpringBoot-Microservice-Ecommerce.product-service.main.iml" />
     </modules>
   </component>
 </project>
